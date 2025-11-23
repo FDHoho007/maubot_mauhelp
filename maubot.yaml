@@ -1,8 +1,7 @@
-maubot: 0.3.1
-id: se.skeg1.mauhelp
+maubot: 0.6.0
+id: de.fdhoho007.mauhelp
 version: 0.3.2
 license: MIT
 modules:
   - mauhelp
 main_class: MauHelp
-database: false
